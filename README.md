@@ -1,6 +1,8 @@
 # Alterations in chromatin accessibility and conformation elucidate genetic mechanisms in ASD
 
-Code, data, and plots accompanying the manuscript
+Code, data, and plots accompanying the manuscript: "Alterations in chromatin accessibility and conformation elucidate genetic mechanisms in ASD. Jiani Yin, Jerry Huang, Jing Ou, George Chen, Lucy K. Bicks, Brie Wamsley, Yuyan Cheng, Lawrence Chen, Jillian R. Haney, Rain Wong, Daniel H. Geschwind" 
+
+Manuscript link https://www.medrxiv.org/content/10.1101/2025.04.02.25325129v1.full-text
 
 # Pipeline Stages:
 1.	Genome-wide chromatin accessibility profiling (ATAC-seq) and differential analysis (Figure 1)
