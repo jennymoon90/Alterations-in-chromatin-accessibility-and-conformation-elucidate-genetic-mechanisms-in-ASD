@@ -3,8 +3,8 @@
 Code, data, and plots accompanying the manuscript
 
 # Pipeline Stages:
-1.	Genome-wide chromatin accessibility profiling and differential analysis (Figure 1)
-2.	Transcription factor binding and regulatory network inference (Figure 2 & 3)
+1.	Genome-wide chromatin accessibility profiling (ATAC-seq) and differential analysis (Figure 1)
+2.	Transcription factor (TF) binding and regulatory network inference (Figure 2 & 3)
 3.	Common variant and genetic risk modeling (Figure 4)
 4.	Rare variant impact analysis on gene regulation (Figure 4)
 5.	3D genome (Hi-C) differential interaction and domain analysis (Figure 5)
