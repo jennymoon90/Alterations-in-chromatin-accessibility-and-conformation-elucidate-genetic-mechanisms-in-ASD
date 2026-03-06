@@ -6,11 +6,17 @@ Manuscript link https://www.medrxiv.org/content/10.1101/2025.04.02.25325129v1.fu
 
 # Pipeline Stages:
 **1.**	Genome-wide chromatin accessibility profiling (ATAC-seq) and differential analysis (Figure 1)
+
 **2.**	Transcription factor (TF) binding and regulatory network inference (Figure 2 & 3)
+
 **3.**	Common variant and genetic risk modeling (Figure 4)
+
 **4.**	Rare variant impact analysis on gene regulation (Figure 4)
+
 **5.**	3D genome (Hi-C) differential interaction and domain analysis (Figure 5)
+
 **6.**	Multi-modal integration of 3D genome architecture and DNA methylation (Figure 5)
+
 **7.**	Quantifying Individual and joint contributions of chromatin accessibility, 3D genome organization, and DNA methylation to gene expression changes (Figure 6)
 
 # Script Number:
